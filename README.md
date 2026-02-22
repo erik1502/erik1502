@@ -10,3 +10,7 @@ HTML | CSS | JavaScript | Python
 ## 📫 Contact Me
 - LinkedIn
 - Email
+
+
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
