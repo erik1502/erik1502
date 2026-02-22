@@ -14,3 +14,6 @@ HTML | CSS | JavaScript | Python
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=erikagabon1502)](https://git.io/streak-stats)
